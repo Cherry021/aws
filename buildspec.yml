@@ -12,5 +12,5 @@ phases:
     - echo "Entered into post build phase"
 artifacts:
   files:
-    - build/libs/*.jar
+    - target/*.jar
     

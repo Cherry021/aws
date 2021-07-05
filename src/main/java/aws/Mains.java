@@ -21,7 +21,7 @@ public class Mains {
 	public static void main(String[] args) {
 		SpringApplication app = new SpringApplication(Mains.class);
 		app.run(args);
-		//Cool man
+		
 	}           
 	
 	@Bean
